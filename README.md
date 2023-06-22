@@ -5,3 +5,6 @@
 
 ## Primera entrega 
 - En la carpeta Entrega1, agregar el pdf actividad integradora armado de computadoras
+
+## Segunda entrega
+- En la carpeta Entrega2, agregar el pdf Ejercitación en Ubuntu
