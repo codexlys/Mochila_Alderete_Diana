@@ -1,2 +1,3 @@
 Hola, me conecte por Telnet.
+Hola, me conecte por SSH.
 
