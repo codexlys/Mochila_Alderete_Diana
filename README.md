@@ -8,3 +8,7 @@
 
 ## Segunda entrega
 - En la carpeta Entrega2, agregar el pdf Ejercitación en Ubuntu
+
+## Tercera entrega
+- En la carpeta Entrega3, ingresar a la maquina virtual, instalar git, clonar el repositorio de la Mochila y agregar el archivo entrega3.txt junto a las capturas de los pasos realizados. 
+

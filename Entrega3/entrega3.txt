@@ -1,0 +1,21 @@
+TAREA DE CLASE 15
+
+INTEGRANTES: CLAUDIA HEREDIA / DIANA ALDERETE / ERIKA RIOS / TATIANA VEGA / ERIK POMA / LUIS OJEDA
+
+1. ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?
+
+Depende de la herramienta de compilación e interpretación que tiene el sistema operativo.
+Pueden requerir versiones específicas de software para funcionar correctamente
+La compatibilidad de cada lenguaje de programación tienen diferentes arquitecturas y diseños
+Algunos sistemas operativos pueden tener políticas y restricciones específicas con respecto a los lenguajes de programación permitidos.
+
+2. ¿Qué tipo de máquina virtual es virtualBox?
+
+Es un hipervisor de tipo2, es un software de virtualización que crea y ejecuta maquinas virtuales en diferentes sistemas operativos.
+Tipo 2 de virtualización a nivel de host.
+
+3. Si tengo más de una máquina virtual instalada, y una se rompe, ¿Esto afecta a las demás?¿Por qué?
+
+Consideramos que no debería de afectarse ya que están diseñadas para ser entornos aislados.
+Lo que significa que operan de forma independiente unas de otras.
+
