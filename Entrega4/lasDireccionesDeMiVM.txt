@@ -1,0 +1,8 @@
+Las direcciones de Mi Maquina Virtual
+
+- IP Pública: 181.66.137.232
+- IP Privada: 192.168.1.105
+- Dirección MAC: 08:00:27:69:74:7e
+
+¿Es diferente a la IP pública y privada de nuestra máquina host?
+Si, son diferentes la IP pública y privada en los últimos 3 dígitos que corresponden a la parte host, por el lado de la parte red son iguales con las de la máquina host.

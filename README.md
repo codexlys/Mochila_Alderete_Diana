@@ -12,3 +12,6 @@
 ## Tercera entrega
 - En la carpeta Entrega3, ingresar a la maquina virtual, instalar git, clonar el repositorio de la Mochila y agregar el archivo entrega3.txt junto a las capturas de los pasos realizados. 
 
+## Cuarta entrega
+- En la carpeta Entrega4, crear un archivo txt y copiar las preguntas de la ejercitación.
+
