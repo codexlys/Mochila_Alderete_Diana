@@ -15,3 +15,6 @@
 ## Cuarta entrega
 - En la carpeta Entrega4, crear un archivo txt y copiar las preguntas de la ejercitación.
 
+## Quinta entrega
+- En la carpeta Entrega5, crear un archivo txt, donde escriba las conexiones a Telnet y SSH. También agregar un archivo donde se responden las preguntas de la ejercitación.
+
