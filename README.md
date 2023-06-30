@@ -18,3 +18,5 @@
 ## Quinta entrega
 - En la carpeta Entrega5, crear un archivo txt, donde escriba las conexiones a Telnet y SSH. También agregar un archivo donde se responden las preguntas de la ejercitación.
 
+## Entrega opcional
+- En la carpeta EntregaClase20, resolver las preguntas sobre IP, geolocalización, velocidad en Opera sin VPN, con VPN y Tor.
